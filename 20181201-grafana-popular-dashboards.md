@@ -2,22 +2,23 @@
 
 [Grafana](https://grafana.com/) is a beautiful front end
 for data visualization and system metric monitoring.
-With grafana, you can easily create you own dashboards
-to watch what's happening on you system.
-There are a number of panels and data sources provided by grafana eco system.
-All you have to do is just combine those components.
+With grafana, you can easily create your dashboards
+to watch what's happening on your system.
+There are many panels and data sources provided by grafana ecosystem.
+All you have to do is simply to combine those components.
 
-But when I tried to find useful dashboards on ther
-[online galary](https://grafana.com/dashboards),
+However, when I tried to find useful dashboards on their
+[online gallery](https://grafana.com/dashboards),
 it was a little bit difficult because it's not well organized.
 I wanted to get the download ranking,
-but the list is sorted by alphanumerical order and there are no other options.
+but the list is sorted by alphanumerical order,
+and there are no other options.
 
-So I scriped the web site and created the download ranking
+So I scraped the website and created the download ranking
 of grafana dashboards.
 
 Here is the top 10 list at this time (2018/12/01) with description.
-In case you are more interestead, there is the top 100 list on
+In case you are more interested, there is the top 100 list on
 [this github page](https://github.com/hamasho/grafana-popular-dashboards).
 
 ## Popular dashboards
